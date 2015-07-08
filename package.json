@@ -1,0 +1,21 @@
+{
+  "name": "axios-store",
+  "version": "0.0.1-alpha",
+  "description": "a data store with the axios web client",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.5.4",
+    "defektive-data-store": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "store",
+    "axios"
+  ],
+  "author": "defektive",
+  "license": "MIT"
+}
