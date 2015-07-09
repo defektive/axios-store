@@ -1,11 +1,11 @@
 {
   "name": "axios-store",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a data store with the axios web client",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.5.4",
-    "defektive-data-store": "^1.0.0",
+    "defektive-data-store": "^1.0.1",
     "babel-loader": "^5.0.0"
   },
   "devDependencies": {},
